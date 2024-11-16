@@ -1,0 +1,47 @@
+{
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 36,
+  "boxShadow": "none",
+  "displayName": "Camera",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onImageSave"
+    }
+  ],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.79c0d6de26a15bf464f2485130faa461.svg",
+  "isCanvas": false,
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isMirrored": false,
+  "isVisible": true,
+  "key": "3aaftyvxh5",
+  "leftColumn": 0,
+  "mobileBottomRow": 39,
+  "mobileLeftColumn": 1,
+  "mobileRightColumn": 26,
+  "mobileTopRow": 6,
+  "mode": "CAMERA",
+  "onImageSave": "{{ocrRead.scanImage();\ncloseModal('Modal1');}}",
+  "parentColumnSpace": 6.4921875,
+  "parentId": "ypuku9mdec",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 64,
+  "searchTags": [
+    "photo",
+    "video recorder"
+  ],
+  "topRow": 0,
+  "type": "CAMERA_WIDGET",
+  "version": 1,
+  "widgetId": "rxdonhdh36",
+  "widgetName": "Camera1"
+}

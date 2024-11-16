@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "6738acdef44c902a7f83a680_0ea189d6-ebda-439e-a6c8-f69fc6b63c7e",
+  "id": "Page1_ocrRead",
+  "unpublishedCollection": {
+    "name": "ocrRead",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "resultsText",
+        "value": "' '"
+      },
+      {
+        "name": "loggerText",
+        "value": "' '"
+      }
+    ]
+  }
+}
